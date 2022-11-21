@@ -6,7 +6,7 @@
 
 🔗 [Acesse](https://prdsilva80.github.io/cores/)
 
-## 🛠️ Tecnologias Ultilizadas
+## 🛠️ Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
